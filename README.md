@@ -24,6 +24,7 @@ Awesome-Software-Backup
 ### Cheat Engine
 ### Navicat
 ### DataGrip
+### Git
 # 聊天
 ### Discord
 ### Telegram
@@ -43,6 +44,7 @@ Awesome-Software-Backup
 ### ToDesk
 ### RustDesk
 ### Killer Control Center
+### Netch
 
 # 一些小工具
 ### PowerToys
@@ -53,7 +55,9 @@ Awesome-Software-Backup
 ### Nvida GeForce Experience
 ### CPU Z
 ### GPU Z
-
+### Wallpaper Engine
+### Wpd
+### Geek Uninstaller
 # 面捕
 ### Vtube Studio
 
@@ -62,6 +66,10 @@ Awesome-Software-Backup
 ### Steam++
 ### Yuzu
 ### GreenLuma 2020
+
+# 下载
+### aira2 
+### QbitTorrent
 
 # 直播
 ### OBS Studio
@@ -72,3 +80,23 @@ Awesome-Software-Backup
 # Android
 ### httpCanry
 ### Magisk
+
+# 图片
+### Picgo
+
+# Chrome Extensions
+### Dark Reader
+### EditThisCookie
+### Grammarly
+### Tampermonkey
+
+# Environment
+### Curl
+### Kubectl
+### Platform-tools (ADB)
+### scrcpy
+### GCC
+### Hugo extended
+
+# PowerShell
+### ["PowerShellTip"](https://github.com/limitcool/PowershellTip)
